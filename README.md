@@ -1,5 +1,5 @@
 
-![React Avançado](https://raw.githubusercontent.com/allanlisboa/nextjs-with-styled-components/main/public/assets/logo-light.svg)
+![React Avançado](https://raw.githubusercontent.com/allanlisboa/nextjs-youtube-clone-with-material-ui/main/public/assets/logo-dark.svg)
 
 This is a [Next.js](https://nextjs.org/) Youtube interface clone with Typescript and Material UI.
 ## What is inside?
